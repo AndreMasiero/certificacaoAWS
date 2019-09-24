@@ -1,0 +1,50 @@
+//////// Aula 13. Hands On - Instalando e Configurando AWS CLI
+https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201154#overview
+
+aws --version --> mostra versão aws
+
+/// Acessar AWS
+aws configura
+
+/////////////// criar usuário aws
+no menu
+//Primeiro criar um grupo
+Serviços > IAM > Grupos
+Serviços > IAM > Users
+
+
+aws s3 ls --> mostra os buckets
+
+aws ls --> mostra todos os comandos aceitos
+
+refenrecia com todos os comandos
+https://docs.aws.amazon.com/cli/latest/reference/
+
+
+
+
+#######################################################################################################
+
+//////// Aula 14. Hands On - Configurando Cross Region Replication (BKP entre regiões, ou replicação entre backets diferentes)
+https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201160#overview
+
+
+#######################################################################################################
+15. Hands On - Adicionando LifeCycle em buckets no S3(trocar por exemplo a tier de um arquivo, ex.: após 30 dias trocar
+o arquivo para uma tier mais barata, de acesso mais lento, como um backup)
+//A idéia aqui é reduzir custos
+https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201164#overview
+
+
+#######################################################################################################
+16. Introdução ao CloudFront e CDN(Content Delivery Network)
+https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201202#overview
+
+#######################################################################################################
+17. Configurando CloudFront e CDN com RTMP
+https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201320#overview
+
+#######################################################################################################
+19. Conhecendo o Storage Gateway
+https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201336#overview
+https://docs.aws.amazon.com/pt_br/storagegateway/latest/userguide/StorageGatewayConcepts.html
