@@ -48,3 +48,27 @@ https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lec
 19. Conhecendo o Storage Gateway
 https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201336#overview
 https://docs.aws.amazon.com/pt_br/storagegateway/latest/userguide/StorageGatewayConcepts.html
+
+#######################################################################################################
+20. A Solucao SnowBall
+https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201342#overview
+https://docs.aws.amazon.com/pt_br/snowball/latest/ug/whatissnowball.html
+
+#######################################################################################################
+21. Hands On - Configurando o SnowBall
+https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201348#overview
+
+#######################################################################################################
+22. Hands On - Habilitando o Transfer Acceleration S3
+https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201356#overview
+
+
+
+
+
+
+
+
+
+
+
