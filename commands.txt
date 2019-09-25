@@ -62,11 +62,16 @@ https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lec
 22. Hands On - Habilitando o Transfer Acceleration S3
 https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201356#overview
 
+#######################################################################################################
+23. Hands On - Hospedando um Website no S3
+https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201362#overview
+http://andre-site.s3-website-us-west-2.amazonaws.com
 
 
-
-
-
+#######################################################################################################
+24. Uma Solucao Pratica com o Storage RRS (Reduced Redondancy Storage)
+https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201368#overview
+https://aws.amazon.com/pt/s3/reduced-redundancy/
 
 
 
