@@ -23,9 +23,25 @@ https://docs.aws.amazon.com/cli/latest/reference/
 
 
 
+
+#######################################################################################################
+####################                 Seção 2: Armazenamento AWS                    ####################
 #######################################################################################################
 
-//////// Aula 14. Hands On - Configurando Cross Region Replication (BKP entre regiões, ou replicação entre backets diferentes)
+#######################################################################################################
+11. Hands On - Criando e Configurando uma Bucket S3
+https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201134#overview
+
+#######################################################################################################
+12. Hands On - Configurando versoes no S3
+https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201140#overview
+
+#######################################################################################################
+13. Hands On - Instalando e Configurando AWS CLI
+https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201154#overview
+
+#######################################################################################################
+Aula 14. Hands On - Configurando Cross Region Replication (BKP entre regiões, ou replicação entre backets diferentes)
 https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201160#overview
 
 
@@ -72,6 +88,22 @@ http://andre-site.s3-website-us-west-2.amazonaws.com
 24. Uma Solucao Pratica com o Storage RRS (Reduced Redondancy Storage)
 https://www.udemy.com/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201368#overview
 https://aws.amazon.com/pt/s3/reduced-redundancy/
+
+
+
+#######################################################################################################
+####################                    Seção 3: Servidores EC2                    ####################
+#######################################################################################################
+
+#######################################################################################################
+26. Introdução ao mundo EC2 (Elastic Compute Cloud)
+https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201514#overview
+https://aws.amazon.com/pt/ec2/instance-types/   ----> tipos
+https://aws.amazon.com/pt/ec2/pricing/on-demand/   -----> preços
+
+#######################################################################################################
+27. Volumes e Imagens do EC2 (EBS - elastic block storage)
+https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201524#overview
 
 
 
