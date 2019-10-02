@@ -105,7 +105,7 @@ https://aws.amazon.com/pt/ec2/pricing/on-demand/   -----> preços
 27. Volumes e Imagens do EC2 (EBS - elastic block storage)
 https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15201524#overview
 
-
-
-
+#######################################################################################################
+28. Hands On - Criando um Servidor Windows 2019 no EC2
+https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15207850#overview
 
