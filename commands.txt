@@ -109,3 +109,8 @@ https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/le
 28. Hands On - Criando um Servidor Windows 2019 no EC2
 https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15207850#overview
 
+#######################################################################################################
+29. Hands On - Criando um Servidor Linux e Acesso via Putty
+https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/learn/lecture/15207854#overview
+IP gerado: 34.222.9.96/
+
